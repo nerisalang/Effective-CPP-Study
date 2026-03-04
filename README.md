@@ -4,4 +4,5 @@
 학습 현황
 | 항목   |  주제  |
 | Item01 | C++를 언어들의 연합체로 바라보는 안목은 필수 |
+| Item02 | #define을 쓰려거든 const, enum, inline을 떠올리자 |
 
