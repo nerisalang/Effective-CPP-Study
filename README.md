@@ -8,3 +8,5 @@
 | Item01 | C++를 언어들의 연합체로 바라보는 안목은 필수 |
 
 
+| Item02 | #define을 쓰려거든 const, enum, inline을 떠올리자 |
+
