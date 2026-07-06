@@ -10,3 +10,5 @@
 
 | Item02 | #define을 쓰려거든 const, enum, inline을 떠올리자 |
 
+
+| Item03 | 낌새만 보이면 const를 들이대 보자! |
